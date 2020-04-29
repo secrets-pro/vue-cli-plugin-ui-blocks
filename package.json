@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:secrets-pro/vue-cli-plugin-uiblocks.git"
+    "url": "git+ssh://git@github.com:secrets-pro/vue-cli-plugin-ui-blocks.git"
   },
   "keywords": [
     "vue",
@@ -17,7 +17,7 @@
   "author": "xubowen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/secrets-pro/vue-cli-plugin-uiblocks/issues"
+    "url": "https://github.com/secrets-pro/vue-cli-plugin-ui-blocks/issues"
   },
-  "homepage": "https://github.com/secrets-pro/vue-cli-plugin-uiblocks#readme"
+  "homepage": "https://github.com/secrets-pro/vue-cli-plugin-ui-blocks#readme"
 }
