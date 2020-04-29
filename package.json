@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-ui-blocks",
+  "version": "0.0.1",
+  "description": "vue-cli 3 plugin to add vue pages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:secrets-pro/vue-cli-plugin-uiblocks.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "plugin",
+    "cli",
+    "blocks"
+  ],
+  "author": "xubowen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/secrets-pro/vue-cli-plugin-uiblocks/issues"
+  },
+  "homepage": "https://github.com/secrets-pro/vue-cli-plugin-uiblocks#readme"
+}
