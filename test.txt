@@ -1,0 +1,22 @@
+.
+├── README.md
+├── generator
+│   ├── index.js
+│   ├── templates
+│   │   └── src
+│   │       └── views
+│   │           ├── test
+│   │           │   ├── index.less
+│   │           │   └── index.vue
+│   │           └── test1
+│   │               ├── index.less
+│   │               └── index.vue
+│   └── utils.js
+├── index.js
+├── logo.png
+├── package.json
+├── pags.js
+├── prompts.js
+└── test.txt
+
+6 directories, 13 files

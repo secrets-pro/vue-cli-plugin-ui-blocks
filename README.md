@@ -20,7 +20,7 @@
 
 ```js
 pluginOptions: {
-    uiblockModules: ["test", "test1"],
+    modules: ["test", "test1"],
   }
 ```
 
