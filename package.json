@@ -1,6 +1,6 @@
 {
-  "name": "vue-cli-plugin-ui-blocks",
-  "version": "0.0.1",
+  "name": "@secrets/vue-cli-plugin-ui-blocks",
+  "version": "1.0.0",
   "description": "vue-cli 3 plugin to add vue pages",
   "main": "index.js",
   "repository": {
