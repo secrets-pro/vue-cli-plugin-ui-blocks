@@ -10,6 +10,28 @@
 
 搜索 `vue-cli-plugin-ui-blocks` 选择你需要安装的模块
 
+在`package.json`下插件会自动生成一个脚本命令
+
+```bash
+ "uiblock": "vue-cli-service uiblocks"
+```
+
+可以在自己的`vue.config.js`下维护自己需要的模块
+
+```js
+pluginOptions: {
+    uiblockModules: ["test", "test1"],
+  }
+```
+
+然后运行
+
+```bash
+npm run uiblock
+```
+
+也会自动安装模块
+
 ## 修改模块
 
 1. clone 一份本项目
